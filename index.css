@@ -2,3 +2,7 @@ body{
 	background: #90e0ef;
 	font-family: 'Montserrat', serif;
 }
+
+#project-link {
+	text-decoration: none;
+}
